@@ -39,4 +39,3 @@ While building this project I practiced:
 ![Preview](assets/preview/preview-1.png)
 ![Preview](assets/preview/preview-2.png)
 ![Preview](assets/preview/preview-3.png)
-![Preview](assets/preview/preview-4.png)
