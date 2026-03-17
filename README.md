@@ -1,6 +1,6 @@
 # Food Business Landing Page
 
-This project is a landing page designed for a small homemade food business that sells empanadas and milanesa sandwiches.
+This project is a landing page designed for a small homemade food business that sells empanadas.
 
 The goal of the page is to present the products in a visually appealing way and make it easy for customers to place orders through WhatsApp.
 
@@ -33,3 +33,10 @@ While building this project I practiced:
 ## Live Demo
 
 [View the project](LINK_GITHUB_PAGES)
+
+## Preview
+
+![Preview](assets/preview/preview-1.png)
+![Preview](assets/preview/preview-2.png)
+![Preview](assets/preview/preview-3.png)
+![Preview](assets/preview/preview-4.png)
