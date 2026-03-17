@@ -32,10 +32,10 @@ While building this project I practiced:
 
 ## Live Demo
 
-[View the project](LINK_GITHUB_PAGES)
+[View the project](https://food-business-landing-page.netlify.app)
 
 ## Preview
 
-![Preview](assets/preview/preview-1.png)
-![Preview](assets/preview/preview-2.png)
-![Preview](assets/preview/preview-3.png)
+![Preview](assets/img/preview/preview-1.png)
+![Preview](assets/img/preview/preview-2.png)
+![Preview](assets/img/preview/preview-3.png)
